@@ -12,7 +12,7 @@ Ar hyn o bryd mae'n cynnwys 79,442 o 'frawddegau' hyfforddi tagiedig, sef 3,345 
 
 Mae'r data yn cynnwys brawddegau cyffredinol a awdurwyd gan aelodau'r Uned, yn ogystal â sgyrsiau ar-lein, cyfieithiadau o straeon ac erthyglau newyddiadurol CC0, trydariadau ac erthyglau gwyddoniadurol a gyfranwyd gan eu hawduron o dan drwydded CC0.
 
-Gyda'r data cynnar hwn, rydym eisioes wedi llwyddo i hyfforddi tagiwr cychwynnol gyda chywirdeb o dros **90%** ar destun a gasglwyd ar hap ac nad oedd yn y data hyfforddi.
+Gyda'r data cynnar hwn, rydym eisioes wedi llwyddo i hyfforddi tagiwr cychwynnol gyda chywirdeb o dros **91%** ar destun a gasglwyd ar hap ac nad oedd yn y data hyfforddi.
 
 Mae model parod y tagiwr hwnnw ar gael yma:
 
@@ -45,7 +45,7 @@ The corpus currently contains 79,442 tagged training 'sentences', comprising of 
 
 The data includes general sentences authored by the Unit's staff as well as online chats, translated CC0 stories and newspaper articles, and tweets, encylopeadic articles provided to us by their authors under a CC0 licence.
 
-Using this early data, we have already succeeded in training a model with over **90%** accuracy on randomly selected texts that were not part of the training data.
+Using this early data, we have already succeeded in training a model with over **91%** accuracy on randomly selected texts that were not part of the training data.
 
 That pretrained model is available here:
 
