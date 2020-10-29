@@ -14,7 +14,9 @@ Mae'r data yn cynnwys brawddegau cyffredinol a awdurwyd gan aelodau'r Uned, yn o
 
 Gyda'r data cynnar hwn, rydym eisioes wedi llwyddo i hyfforddi tagiwr cychwynnol gyda chywirdeb o dros **90%** ar destun a gasglwyd ar hap ac nad oedd yn y data hyfforddi.
 
-Mae model parod y tagiwr hwnnw ar gael YMA.
+Mae model parod y tagiwr hwnnw ar gael yma:
+
+https://github.com/techiaith/model-tagiwr-spacy-cy
 
 Bwriadwyd y ffeil o frawddegau tagiedig hon ar gyfer ei ddefnyddio gyd spaCy, un o'r llyfrgelloedd NLP cyfoes amlycaf.
 
@@ -28,6 +30,7 @@ https://spacy.io/api/cli#train
 
 Ar hyn o bryd, bydd angen i chi osod ffolder iaith `lang` Cymraeg yn spaCy i hyn weithio. Mae ffolder ddrafft a chyfarwyddiadau ar sut i'w osod yn spaCy ar gael gennym YMA. Byddwn yn cyfrannu'r ffeiliau hyn i spaCy yn y dyfodol agos er mwyn gwneud i ffwrdd â'r angen am y cam hwnnw.
 
+Ariannwyd y gwaith hwn gan Lywodraeth Cymru.
 
 # Corpus of Tagged Sentences
 
@@ -44,7 +47,9 @@ The data includes general sentences authored by the Unit's staff as well as onli
 
 Using this early data, we have already succeeded in training a model with over **90%** accuracy on randomly selected texts that were not part of the training data.
 
-That pretrained model is available HERE.
+That pretrained model is available here:
+
+https://github.com/techiaith/model-tagiwr-spacy-cy
 
 This file of training sentences was intended for use with spaCy, one of the foremost modern NLP libraries.
 
@@ -57,3 +62,5 @@ Then use the `train` command to train the model:
 https://spacy.io/api/cli#train
 
 Currently, you will need to install a Welsh `lang` Cymraeg in spaCy for this to work. We've provided a draft folder and installation instructions HERE. We will be contribuiting these files to spaCy in the near future so that this step will no longer be required.
+
+This work was funded by the Welsh Government.
