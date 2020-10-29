@@ -28,7 +28,11 @@ Yna defnyddiwch y gorchymyn `train` i hyfforddi'r model:
 
 https://spacy.io/api/cli#train
 
-Ar hyn o bryd, bydd angen i chi osod ffolder iaith `lang` Cymraeg yn spaCy i hyn weithio. Mae ffolder ddrafft a chyfarwyddiadau ar sut i'w osod yn spaCy ar gael gennym YMA. Byddwn yn cyfrannu'r ffeiliau hyn i spaCy yn y dyfodol agos er mwyn gwneud i ffwrdd â'r angen am y cam hwnnw.
+Ar hyn o bryd, bydd angen i chi osod ffolder iaith `lang` Cymraeg yn spaCy i hyn weithio. Mae ffolder ddrafft a chyfarwyddiadau ar sut i'w osod yn spaCy ar gael gennym yma:
+
+https://github.com/techiaith/spacy-cy-lang
+
+Byddwn yn cyfrannu'r ffeiliau hyn i spaCy yn y dyfodol agos er mwyn gwneud i ffwrdd â'r angen am y cam hwnnw.
 
 Ariannwyd y gwaith hwn gan Lywodraeth Cymru.
 
@@ -61,6 +65,10 @@ Then use the `train` command to train the model:
 
 https://spacy.io/api/cli#train
 
-Currently, you will need to install a Welsh `lang` folder in spaCy for this to work. We've provided a draft folder and installation instructions HERE. We will be contribuiting these files to spaCy in the near future so that this step will no longer be required.
+Currently, you will need to install a Welsh `lang` folder in spaCy for this to work. We've provided a draft folder and installation instructions here:
+
+https://github.com/techiaith/spacy-cy-lang
+
+We will be contribuiting these files to spaCy in the near future so that this step will no longer be required.
 
 This work was funded by the Welsh Government.
