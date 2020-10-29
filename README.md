@@ -61,6 +61,6 @@ Then use the `train` command to train the model:
 
 https://spacy.io/api/cli#train
 
-Currently, you will need to install a Welsh `lang` Cymraeg in spaCy for this to work. We've provided a draft folder and installation instructions HERE. We will be contribuiting these files to spaCy in the near future so that this step will no longer be required.
+Currently, you will need to install a Welsh `lang` folder in spaCy for this to work. We've provided a draft folder and installation instructions HERE. We will be contribuiting these files to spaCy in the near future so that this step will no longer be required.
 
 This work was funded by the Welsh Government.
