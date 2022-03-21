@@ -19,11 +19,11 @@ authors:
     affiliation: Bangor University Language Technologies Unit
     orcid: 'https://orcid.org/0000-0002-2910-2460'
   - given-names: Gareth Llewellyn
-    orcid: 'https://orcid.org/0000-0001-8929-0718'
     family-names: Watkins
     email: g.watkins@bangor.ac.uk
     affiliation: Bangor University Language Technologies Unit
-notes: "Delyth Prys - Cyfraniad ieithyddol/Linguistic contribution, Gareth Watkins - Cyfraniad ieithyddol/Linguistic contribution, Gruffudd Prys - Cyfraniad ieithyddol a thechnegol/Linguistic and technical contribution"
+    orcid: 'https://orcid.org/0000-0001-8929-0718'
+   notes: "Delyth Prys - Cyfraniad ieithyddol/Linguistic contribution, Gareth Watkins - Cyfraniad ieithyddol/Linguistic contribution, Gruffudd Prys - Cyfraniad ieithyddol a thechnegol/Linguistic and technical contribution"
 url: 'https://github.com/techiaith/brawddegau-tagiedig'
 abstract: >-
 Corpws o frawddegau CC0 mewn fformat jsonl, gyda rhannau ymadrodd y tocynnau (geiriau etc.) wedi'u tagio â thagiau Universal Dependencies. | A Corpus of CC0 sentences in the jsonl format, tagged with Universal Dependency part-of-speech tags.
