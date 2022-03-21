@@ -5,7 +5,13 @@ cff-version: 1.2.0
 title: >-
   Corpws-Brawddegau-Tagiedig/Corpus of Tagged
   Sentences
-message: Please cite this dataset using these metadata.
+message: >-
+  Er ein bod yn rhyddhau'r data hwn o dan drwydded
+  CC0, gofynwn yn garedig i chi ystyried rhoi
+  cydnabyddiaeth i'r gwaith hwn. | While we are
+  releasing this data under the CC0 licence, should
+  you use this resource, we kindly ask you to
+  consider acknowledging our work.
 type: dataset
 authors:
   - given-names: Delyth
