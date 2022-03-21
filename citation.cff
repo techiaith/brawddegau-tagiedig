@@ -4,7 +4,8 @@
 cff-version: 1.2.0
 title: Corpws-Brawddegau-Tagiedig/Corpus of Tagged Sentences
 message: >-
-  If you wish to cite this dataset, please do so using these metadata.
+  If you wish to cite this dataset, please do so using
+  these metadata.
 type: dataset
 authors:
   - given-names: Delyth
