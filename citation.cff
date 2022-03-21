@@ -4,7 +4,8 @@
 cff-version: 1.2.0
 title: Corpws-Brawddegau-Tagiedig/Corpus of Tagged Sentences
 message: >-
-  While we are releasing this data under the CC0 licence, should you use this resource, we kindly ask you to consider acknowledging our work.
+  While we are releasing this data under the CC0 licence, should you use this resource,
+  we kindly ask you to consider acknowledging our work.
 type: dataset
 authors:
   - given-names: Delyth
