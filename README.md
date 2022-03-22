@@ -1,5 +1,7 @@
 # Corpws-Brawddegau-Tagiedig
 
+[![DOI](https://zenodo.org/badge/308364293.svg)](https://zenodo.org/badge/latestdoi/308364293)
+
 (see *Corpus of Tagged Sentences* below for English)
 
 Dyma gorpws cychwynnol o frawddegau CC0 Cymraeg mewn fformat jsonl, gyda rhannau ymadrodd y tocynnau (geiriau etc.) wedi'u tagio â thagiau Universal Dependencies.
