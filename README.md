@@ -14,7 +14,9 @@ Ar hyn o bryd mae'n cynnwys 79,442 o 'frawddegau' hyfforddi tagiedig, sef 3,345 
 
 Mae'r data yn cynnwys brawddegau cyffredinol a awdurwyd gan aelodau'r Uned, yn ogystal â sgyrsiau ar-lein, cyfieithiadau o straeon ac erthyglau newyddiadurol CC0, trydariadau ac erthyglau gwyddoniadurol a gyfranwyd gan eu hawduron o dan drwydded CC0.
 
-Gyda'r data cynnar hwn, rydym eisioes wedi llwyddo i hyfforddi tagiwr cychwynnol gyda chywirdeb o dros **91%** ar destun a gasglwyd ar hap ac nad oedd yn y data hyfforddi.
+Ym mis Gorffennaf 2022 ychwanegwyd 9,109 brawddeg tagiedig ychwanegol yn y ffeil `brawddegau_tagiedig_cc0_covost_ltu.jsonl`. Mae'r brawddegau hyn yn gyfieithiadau i'r Gymraeg gan Facebook o frawddegau Saesneg Common Voice fel rhan o CoVOST2 (https://ai.facebook.com/blog/covost-v2-expanding-the-largest-most-diverse-multilingual-speech-to-text-translation-data-set/). Yn dilyn archwiliad ieithyddol, barnwyd gan ein ieithyddion eu bod o safon digonol i'w cynnwys yma.  
+
+Gyda'r data 79k brawddeg cynnar, rydym eisioes wedi llwyddo i hyfforddi tagiwr cychwynnol gyda chywirdeb o dros **91%** ar destun a gasglwyd ar hap ac nad oedd yn y data hyfforddi.
 
 Mae model parod y tagiwr hwnnw ar gael yma:
 
@@ -51,7 +53,9 @@ The corpus currently contains 79,442 tagged training 'sentences', comprising of 
 
 The data includes general sentences authored by the Unit's staff as well as online chats, translated CC0 stories and newspaper articles, and tweets, encylopeadic articles provided to us by their authors under a CC0 licence.
 
-Using this early data, we have already succeeded in training a model with over **91%** accuracy on randomly selected texts that were not part of the training data.
+In July 2022, an additional 9,109 tagged sentences were added in the file `brawddegau_tagiedig_cc0_covost_ltu.jsonl`. These sentences are translations into Welsh by Facebook of English sentences from Common Voice which form part of of CoVOST2 (https://ai.facebook.com/blog/covost-v2-expanding-the-largest-most-diverse-multilingual -speech-to-text-translation-data-set/). Following a linguistic examination, our linguists judged that they were of a sufficient standard to be included here. They have not been used
+
+Using the early 79k sentence data, we have already succeeded in training a model with over **91%** accuracy on randomly selected texts that were not part of the training data.
 
 That pretrained model is available here:
 
