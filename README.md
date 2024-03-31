@@ -16,7 +16,7 @@ Mae'r data yn cynnwys brawddegau cyffredinol a awdurwyd gan aelodau'r Uned, yn o
 
 Ym mis Gorffennaf 2022 ychwanegwyd 9,109 brawddeg tagiedig ychwanegol yn y ffeil `brawddegau_tagiedig_cc0_covost_ltu.jsonl`. Mae'r brawddegau hyn yn gyfieithiadau i'r Gymraeg gan Facebook o frawddegau Saesneg Common Voice fel rhan o CoVOST2 (https://ai.facebook.com/blog/covost-v2-expanding-the-largest-most-diverse-multilingual-speech-to-text-translation-data-set/). Yn dilyn archwiliad ieithyddol, barnwyd gan ein ieithyddion eu bod o safon digonol i'w cynnwys yma.  
 
-Ym Mawrth 2024 ychwanegwyd detholiad o'r brawddegau byr mwyaf cyffredin yn y Gymraeg.
+Ym Mawrth 2024 ychwanegwyd detholiad o'r brawddegau byr mwyaf cyffredin yn y Gymraeg a brawddegau adnabod endidau.
 
 Gyda'r data 79k brawddeg cynnar, rydym eisioes wedi llwyddo i hyfforddi tagiwr cychwynnol gyda chywirdeb o dros **91%** ar destun a gasglwyd ar hap ac nad oedd yn y data hyfforddi.
 
@@ -47,7 +47,7 @@ Ariannwyd y gwaith hwn gan Lywodraeth Cymru.
 
 This is an initial release of a corpus of Welsh CC0 sentences that have been tagged with Universal Dependency part-of-speech tags and saved in jsonl format.
 
-As this is an alpha version of the corpus,  it will increase in size and accuracy as the Iriaith project progresses.
+As this is an alpha version of the corpus, it will increase in size and accuracy as the Iriaith project progresses.
 
 The purpose of this corpus is to enable the creation of statistical Welsh part-of-speech taggers based on machine learning methods.
 
@@ -57,7 +57,7 @@ The data includes general sentences authored by the Unit's staff as well as onli
 
 In July 2022, an additional 9,109 tagged sentences were added in the file `brawddegau_tagiedig_cc0_covost_ltu.jsonl`. These sentences are translations into Welsh by Facebook of English sentences from Common Voice which form part of of CoVOST2 (https://ai.facebook.com/blog/covost-v2-expanding-the-largest-most-diverse-multilingual -speech-to-text-translation-data-set/). Following a linguistic examination, our linguists judged that they were of a sufficient standard to be included here.
 
-In March 2024 a selection of the most common short sentences in Welsh was added.
+In March 2024 a selection of the most common short sentences in Welsh was added, as well as sentences for named entity recognition.
 
 Using the early 79k sentence data, we have already succeeded in training a model with over **91%** accuracy on randomly selected texts that were not part of the training data.
 
