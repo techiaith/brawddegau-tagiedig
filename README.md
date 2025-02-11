@@ -18,6 +18,8 @@ Ym mis Gorffennaf 2022 ychwanegwyd 9,109 brawddeg tagiedig ychwanegol yn y ffeil
 
 Ym Mawrth 2024 ychwanegwyd detholiad o'r brawddegau byr mwyaf cyffredin yn y Gymraeg a brawddegau adnabod endidau.
 
+Ym mis Hydref 2024 ychwanegwyd detholiad o ymadroddion byr o Lexicelt
+
 Gyda'r data 79k brawddeg cynnar, rydym eisioes wedi llwyddo i hyfforddi tagiwr cychwynnol gyda chywirdeb o dros **91%** ar destun a gasglwyd ar hap ac nad oedd yn y data hyfforddi.
 
 Mae model parod y tagiwr hwnnw ar gael yma:
@@ -58,6 +60,8 @@ The data includes general sentences authored by the Unit's staff as well as onli
 In July 2022, an additional 9,109 tagged sentences were added in the file `brawddegau_tagiedig_cc0_covost_ltu.jsonl`. These sentences are translations into Welsh by Facebook of English sentences from Common Voice which form part of of CoVOST2 (https://ai.facebook.com/blog/covost-v2-expanding-the-largest-most-diverse-multilingual -speech-to-text-translation-data-set/). Following a linguistic examination, our linguists judged that they were of a sufficient standard to be included here.
 
 In March 2024 a selection of the most common short sentences in Welsh was added, as well as sentences for named entity recognition.
+
+In October 2024 a selection of short phrases were added from Lexicelt
 
 Using the early 79k sentence data, we have already succeeded in training a model with over **91%** accuracy on randomly selected texts that were not part of the training data.
 
